@@ -9,9 +9,8 @@ The admin panel is designed in a simple way but it is designed using Ajax techno
     <li>HTML</li>
     <li>CSS</li>
     <li>PHP</li>
-    <li>Ajax</li>
     <li>JavaScript</li>
-    <li>JQury</li>
+    <li>JQuery</li>
     <li>SQL</li>
 </ul>
 
