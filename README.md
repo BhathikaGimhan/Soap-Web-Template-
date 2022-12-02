@@ -1,4 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 <h1 align="center" style="color:red;">Soap WebSite</h1>
 
 <h2>About WebSite</h2>
@@ -30,7 +29,7 @@ The admin panel is designed in a simple way but it is designed using Ajax techno
 <img src="https://user-images.githubusercontent.com/74421641/205271243-5de79472-f655-4b9f-867b-e44f2f5fd609.png">
 <img src="https://user-images.githubusercontent.com/74421641/205271247-de41aa84-65b8-4bc6-826b-dcefb0f59212.png">
 
-
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 ## License
 
 ©Bhathika Gimhan Maduragoda
